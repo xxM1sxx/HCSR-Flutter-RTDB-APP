@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "736853407269",
+    "firebase_url": "https://flutteriot-ea901-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutteriot-ea901",
+    "storage_bucket": "flutteriot-ea901.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736853407269:android:06d40ef16522befa2ab1cc",
+        "android_client_info": {
+          "package_name": "com.example.androiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_l4-tab6fHX2dm4pj8BCSIfVEhiZ9WeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
